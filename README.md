@@ -9,10 +9,6 @@ I'm a Samir, Software Developer focusing on Golang, Java, TypeScript, Now learni
 
 <br />
 
-
-Here are some ideas to get you started:
-
-
 - 🌱 I’m currently concentrated on (Golang, Java, TypeScript, Rust) and microservices
 
 <h3>🚀 Some Tools I Use</h3>
