@@ -39,4 +39,7 @@ I'm a Samir, Software Developer focusing on Golang, Java, TypeScript, Now learni
 <img src="https://cdn.svgporn.com/logos/nestjs.svg" alt="postgresql" width="25" height="25" />
 </p>
 
-### Github stats
+### Statistics 
+![](https://github-readme-stats.vercel.app/api?username=fcoterroba)
+
+
